@@ -7,7 +7,7 @@ I can use this log later on to write my own articles on how to overcome any comp
 Every day `write` what have you **done**, what are **obstacles**, how to *overcome*
 
 ---
-
+# TO DO
 ```tasks 
 not done 
 ```
